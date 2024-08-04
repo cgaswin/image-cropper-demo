@@ -1,0 +1,66 @@
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f4f4f9;
+}
+
+
+.App {
+  text-align: center;
+  padding: 20px;
+  background-color: #fff;
+  max-width: 800px;
+  margin: 40px auto;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+
+.cropper {
+  width: 400px;
+  height: 400px;
+  margin: 20px auto;
+  border: 2px dashed #007bff;
+  border-radius: 8px;
+  background-color: #f4f4f9;
+}
+
+
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  cursor: pointer;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+button:focus {
+  outline: none;
+  box-shadow: 0 0 0 4px rgba(0, 123, 255, 0.25);
+}
+
+
+.cropped-image-preview {
+  max-width: 200px;
+  max-height: 200px;
+  margin: 10px auto;
+  display: block;
+  border: 2px solid #007bff;
+  border-radius: 8px;
+}
+
+
+input[type="file"] {
+  display: block;
+  margin: 20px auto;
+  font-size: 16px;
+}
