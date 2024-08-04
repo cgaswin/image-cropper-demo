@@ -1,8 +1,6 @@
-# React + Vite
+# Image-cropper-demo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+! [Demo.png](src%2Fassets%2FDemo.png)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Photo credits:<br>
+Photo by <a href="https://unsplash.com/@mgcthu?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Mg Cthu</a> on <a href="https://unsplash.com/photos/red-boat-near-mosque-painting--1h_NN3nqzI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
